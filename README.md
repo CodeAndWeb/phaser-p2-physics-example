@@ -11,4 +11,3 @@ You'll learn
 * Adding physics enabled sprites
 * Adding springs
 * Reacting to collisions
-* 
